@@ -1,10 +1,15 @@
 // let array = [];
+// let somme= 0;
 // for(let i=1; i<=15; i++) {
 // 	array[i] =  i;
-// 	console.log(array[i]);
+// somme+=i;
+// }
+// 	console.log(somme);
 
 let array = [];
-for(let i=1; i<=303; i++) {
+let somme= 0;
+for(let i=0; i<=100; i++) {
 	array[i] =  i;
-	console.log(array[i]);
+	somme+=i;
 }
+console.log(somme);

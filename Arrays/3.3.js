@@ -1,4 +1,3 @@
-// first array
 // let array = [];
 // let newArray = [];
 // for(let i=1; i<=303; i++) {
